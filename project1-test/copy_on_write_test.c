@@ -4,7 +4,7 @@
 #include <sys/syscall.h>  
 #include <sys/wait.h>  
 
-#define SYS_my_get_physical_addresses 454
+#define SYS_my_get_physical_addresses 451
 
 int global_a = 123;  
 
